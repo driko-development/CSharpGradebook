@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EdrikA\\Documents\\GitHub\\gradebook\\src\\GradeBook\\GradeBook.csproj": {}
+    "C:\\Users\\EdrikA\\Documents\\GitHub\\CSharpGradebook\\src\\GradeBook\\GradeBook.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EdrikA\\Documents\\GitHub\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
+    "C:\\Users\\EdrikA\\Documents\\GitHub\\CSharpGradebook\\src\\GradeBook\\GradeBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EdrikA\\Documents\\GitHub\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+        "projectUniqueName": "C:\\Users\\EdrikA\\Documents\\GitHub\\CSharpGradebook\\src\\GradeBook\\GradeBook.csproj",
         "projectName": "GradeBook",
-        "projectPath": "C:\\Users\\EdrikA\\Documents\\GitHub\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+        "projectPath": "C:\\Users\\EdrikA\\Documents\\GitHub\\CSharpGradebook\\src\\GradeBook\\GradeBook.csproj",
         "packagesPath": "C:\\Users\\EdrikA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EdrikA\\Documents\\GitHub\\gradebook\\src\\GradeBook\\obj\\",
+        "outputPath": "C:\\Users\\EdrikA\\Documents\\GitHub\\CSharpGradebook\\src\\GradeBook\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\EdrikA\\AppData\\Roaming\\NuGet\\NuGet.Config",
